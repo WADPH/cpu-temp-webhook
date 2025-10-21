@@ -1,4 +1,4 @@
-# cpu-temp-webhook
+# CPU TEMP WEBHOOK
 ## Send alerts on threshold via TG bot 
 
 1. Firstly you should install lm-sensors:
