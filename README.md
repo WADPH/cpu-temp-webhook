@@ -11,6 +11,7 @@ apt install lm-sensors
 ```bash
 git clone https://github.com/WADPH/cpu-temp-webhook.git
 cd cpu-temp-webhook
+chmod +x cpu-temp-webhook.sh
 nano cpu-temp-webhook.sh
 ````
 
